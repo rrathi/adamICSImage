@@ -1,9 +1,9 @@
-- Copy update.zip and adam_AlphaICS.zip to the external sdcard.
+- Copy update.zip and adam_BetaICS.zip to the external sdcard.
 - Start the device in recovery mode.
 - Select Install update.zip from external SD Card(Thanks to DJ_Steve for the recovery image)
 - Once complete, reboot to recovery mode again
 - Wipe the data and select the option - install zip from SD card.
 - Select choose zip from SD Card 
-- Select adam_AlphaICS.zip 
+- Select adam_BetaICS.zip 
 - Wipe the data and cache
 - Reboot the device
